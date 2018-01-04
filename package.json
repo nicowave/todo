@@ -1,0 +1,25 @@
+{
+  "name": "todo",
+  "version": "1.0.0",
+  "description": "RESTful todo list api",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nicowave/todo.git"
+  },
+  "keywords": [
+    "api",
+    "rest",
+    "node",
+    "mongodb"
+  ],
+  "author": "nicolas roldos",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nicowave/todo/issues"
+  },
+  "homepage": "https://github.com/nicowave/todo#readme"
+}
