@@ -21,5 +21,12 @@
   "bugs": {
     "url": "https://github.com/nicowave/todo/issues"
   },
-  "homepage": "https://github.com/nicowave/todo#readme"
+  "homepage": "https://github.com/nicowave/todo#readme",
+  "devDependencies": {
+    "nodemon": "^1.14.7"
+  },
+  "dependencies": {
+    "express": "^4.16.2",
+    "mongoose": "^5.0.0-rc2"
+  }
 }
